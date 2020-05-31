@@ -1,2 +1,0 @@
-# github.com/Parkjoungwan/Go_WEB
-.\main.go:19:22: invalid operation: "POST" + c.Request.Body (mismatched types string and io.ReadCloser)
